@@ -1,0 +1,180 @@
+1) Pelo que o Scrum Master é responsável?
+
+Por Ensinar Scrum e buscar que seja adotado e utilizado corretamente.
+
+
+2) Quando termina um Sprint?
+
+Quando o tempo fixo determinado para a Sprint acaba.
+
+
+3) Qual informação melhor descreve a responsabilidade de um Dono do Produto?
+
+Otimizar o retorno sobre o investimento (ROI) no produto, tendo a entrega de valor e feedbacks recebidos do cliente como sendo guias chaves para tal.
+
+4) Em que planejamento Ágil é diferente do tradicional?
+
+O planejamento Ágil utiliza apenas o nível de detalhes disponível em cada momento.
+
+
+5) O que significa dizer que um evento tem um timebox?
+
+O evento pode durar até a quantidade máxima de tempo estabelecido.
+
+
+6) A equipe de desenvolvimento é a única responsável por implementar os itens do Backlog da Sprint:
+
+Verdadeiro, a Equipe Scrum é responsável pelo andamento do Sprint e pela entrega dos itens do Backlog da Sprint.
+
+
+7) Quando um Sprint deve ser interrompido?
+
+Quando a meta estabelecida para o Sprint não mais faz sentido.
+
+
+8) O que melhor traduz o que se espera de um Time de Desenvolvimento em um projeto Ágil?
+
+Qualidade no produto gerado, propriedade sobre suas decisões e responsabilidade.
+
+
+9) Um membro da Equipe Scrum se voluntaria para ser responsável por um item do Backlog da Sprint:
+
+Nunca. Todos os itens do Backlog da Sprint são responsabilidades de toda a Equipe Scrum, apesar de que cada um vai ser implementado por um membro específico da equipe.
+
+
+10) Qual das opções a seguir NÃO é característica de um projeto SCRUM?
+
+Grandes quantidades de planejamento logo no início do projeto.
+
+
+11) A Equipe Scrum escolheu, juntamente com o Dono do Produto, itens do Backlog do Produto para desenvolver no Sprint e se comprometeu a atingir uma meta negociada com o Dono do Produto. Quem deve determinar como a Equipe Scrum deve realizar seu trabalho?
+
+A Equipe Scrum
+
+
+12) É importante que o incremento de produto seja lançado para produção ou apresentado para os clientes ao final de cada Sprint.
+
+Verdadeiro.
+
+13) Para que serve o Daily Scrum (reunião diária)?
+
+Para promover visibilidade sobre o trabalho e comunicação entre os membros da Equipe Scrum.
+
+
+14) Durante uma reunião de Sprint Planning (Planejamento da Sprint), a carga de trabalho necessária para cumprir os itens desejados pelo Dono do Produto parece maior do que a capacidade da Equipe Scrum. Que ação faz mais sentido?
+
+A Equipe Scrum e o Dono do Produto colaboram e possivelmente removem ou modificam itens.
+
+
+15) Por que a reunião diária deve acontecer sempre no mesmo horário e local?
+
+A consistência reduz a complexidade.
+
+
+16) No Scrum não existe um papel chamado "Gerente de Projetos".
+
+Verdadeiro.
+
+
+17) O CEO da empresa cliente liga e solicita a Equipe Scrum que adicione um item "muito importante" para o Sprint atual. O que a Equipe Scrum deve fazer?
+
+Informar o Dono do Produto para que ele trate o assunto com o CEO da empresa cliente.
+
+
+18) Em quais ativividades o Dono do Produto comumente se envolve durante o tempo de desenvolvimento em um Sprint?
+
+Prover feedback sobre o trabalho da Equipe Scrum quando solicitado, responder a perguntas da Equipe Scrum sobre itens no Sprint atual e preparar itens para o próximo Sprint junto à Equipe Scrum.
+
+
+19) Um novo membro entrou em uma Equipe Scrum que já existia, Ele está tendo conflitos todo o tempo com os membros e está tornando o ambiente hostil. Se necessário, quem deve identificar o problema e iniciar o processo para resolvê-lo?
+
+A Equipe Scrum é responsável, pois ela é um time auto-organizado, facilitado pelo Scrum Master.
+
+
+20) O que melhor descreve a Sprint Review (Revisão da Sprint)?
+
+É uma reunião para dar aos clientes e demais partes interessadas uma oportunidade de inspecionar o que foi feito durante o Sprint e dar feedback.
+
+
+21) Qual é a forma primária do Scrum Master manter a equipe Scrum em um alto nível de produtividade?
+
+Facilitando as decisões da equipe e removendo impedimentos.
+
+
+22) Com que frequência a reunião de retrospectiva deve ser realizada e por quê?
+
+Ao final de cada Sprint e ao final do projeto, pois é através dela que a Equipe Scrum inspeciona seus processos para então adaptá-los, de forma a melhorar continuamente.
+
+23) Quando várias equipes Scrums estão trabalhando juntas em um projeto de maior porte, cada equipe mantêm um Backlog do Produto em separado.
+
+Falso.
+
+24) Que frase melhor descreve a principal responsabilidade do Dono do Produto?
+
+Otimizar o retorno sobre o investimento do trabalho realizado pela Equipe Scrum.
+
+
+25) O Scrum Master mantém uma lista de impedimentos abertos, mas ela está crescendo e ele tem resolvido apenas uma pequena parcela dos impediementos. Quais as três técnicas seriam mais úteis nesta situação?
+
+- Priorizar a lista e trabalhar com eles em ordem.
+- Consulte a Equipe Scrum.
+- Alertar a gestão pra os impedimentos e seu impacto.
+
+26) Qual o tamanho máximo de uma Sprint?
+
+- Não tão longa que os outros eventos do negócio não possam ser sincronizados com as entregas do projeto Scrum.
+- Não tão longa que torne o risco inaceitável para o Dono do Produto.
+
+
+27) Idealmente, qual o papel da equipe de qualidade em um projeto Ágil?
+
+Não existe equipe de qualidade em projetos Ágeis. A qualidade faz parte dlo trabalho da Equipe Scrum.
+
+
+28) Quem tem a última palavra sobre a ordem do Product Backlog?
+
+O Dono do Produto
+
+
+29) O Timebox para uma reunião diária no Scrum é:
+
+15 minutos
+
+
+30) Um gráfico burndown mostra:
+
+O trabalho restante ao longo do tempo.
+
+
+31) Em um projeto Ágil, quem deve estimar o trabalho a ser realizado?
+
+A Equipe Scrum.
+
+
+32) Quem deve saber mais sobre o progresso em direção a um objetivo de negócio e ser capaz de explicar as alternativas mais claramente?
+
+O Dono do Produto.
+
+
+33) Quem precisa, obrigatoriamente, estar presente na reunião diária?
+
+A Equipe Scrum.
+
+
+34) O Product Backlog é ordenado de acordo/considerando:
+
+Pelo que for considaderado mais adequado pelo Dono do Produto.
+
+
+35) Você é o diretor de uma empresa que irá iniciar vários projetos nas próximas semanas. Em quais dos projetos você aplicaria Scrum?
+
+- Desenvolvimento de um novo sistema de gestão de recursos humanos.
+- Planejamento de uma campanha de marketing para o dia das mães.
+
+36) Qual é a forma primária pela qual o Scrum Master colabora para que uma Equipe Scrum seja efetiva.
+
+Agindo como um facilitador e removendo impendimentos.
+
+37) Qual afirmação melhor descreve o Scrum?
+
+Um framework através do qual são desenvolvidos produtos complexos em ambientes complexos.
